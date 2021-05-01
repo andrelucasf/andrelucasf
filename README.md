@@ -1,8 +1,8 @@
 ### Olá, sou André Lucas 👋
 
-Sou um estudante de engenharia de software apaixonado por tecnologia!
+Um estudante de engenharia de software apaixonado por tecnologia!
 
-## Contato
+## Contatos
 
 <p >
 <a href="mailto:andre.lucas.lemos@gmail.com"><img  src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp;&nbsp;
