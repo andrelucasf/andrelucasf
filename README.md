@@ -1,11 +1,10 @@
 ### Olá, sou André Lucas 👋
 
-Um estudante de engenharia de software apaixonado por tecnologia!
+- Um estudante de engenharia de software na Universidade de Brasília, apaixonado por tecnologia. 📚 <br>
+- Atualmente estou estudando tecnologias de desenvolvimento web como HTML, CSS, JavaScript, Node e React. 🌱 
 
 ## Contatos
 
-<p >
-<a href="mailto:andre.lucas.lemos@gmail.com"><img  src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://github.com/andrelucasf"><img  src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/andrelucasf/"><img   src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-</p>
+  <a href = "mailto:andre.lucas.lemos@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andrelucasf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
