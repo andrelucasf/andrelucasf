@@ -1,7 +1,7 @@
 ### Olá, sou André Lucas 👋
 
 - Um estudante de engenharia de software na Universidade de Brasília, apaixonado por tecnologia. 📚 <br>
-- Atualmente estou estudando tecnologias de desenvolvimento web como HTML, CSS, JavaScript, Node e React. 🌱 
+- Atualmente estou atuando na área de desenvolvimento web com HTML, CSS, Typescript, JavaScript, Node e React. 🌱 
 
 ## Contatos
 
