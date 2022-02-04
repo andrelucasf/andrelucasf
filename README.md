@@ -4,8 +4,7 @@
 - Currently I work in the area of web development with HTML, CSS, Typescript, JavaScript, NodeJS, NestJS and React. 🌱 
 -  Full Stack Developer at Atena Solutions 👨‍💻
 
-![André Lucas - GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelucasf&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucasf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![André Lucas - GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelucasf&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucasf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contacts
 
