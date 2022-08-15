@@ -4,7 +4,14 @@
 - Currently I work in the area of web development with HTML, CSS, Typescript, JavaScript, NodeJS, NestJS and React. 🌱 
 -  Full Stack Developer at Atena Solutions 👨‍💻
 
-![André Lucas - GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelucasf&count_private=true&show_icons=true&theme=dracula) 
+<br />
+<div  align="center">
+  <a href="https://github.com/victordsantoss">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrelucasf&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucasf&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
 ### Contacts
 
   <a href="https://www.linkedin.com/in/andrelucasf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -24,5 +31,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucasf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
