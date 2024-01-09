@@ -1,8 +1,8 @@
 ## Hi, I'm André Lucas 👋
 
-- Software engineering student at the University of Brasília, passionate about technology. 📚 <br>
+- Software engineer at the University of Brasilia, passionate about technology. 📚 <br>
 - Currently I work in the area of web development with HTML, CSS, Typescript, JavaScript, NodeJS, NestJS and React. 🌱 
--  Full Stack Developer at Atena Solutions 👨‍💻
+- Software engineer at Cia. Hering 👨‍💻
 
 <br />
 <div  align="center">
