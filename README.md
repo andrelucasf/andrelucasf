@@ -4,14 +4,6 @@
 - Currently I work in the area of web development with Typescript, JavaScript, NodeJS, NestJS and React. 🌱 
 - Software engineer at Cia. Hering 👨‍💻
 
-<br />
-<div  align="center">
-  <a href="https://github.com/andrelucasf">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrelucasf&count_private=true&show_icons=true&theme=dracula&hide_border=false"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucasf&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
 ### Contacts
 
   <a href="https://www.linkedin.com/in/andrelucasf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
