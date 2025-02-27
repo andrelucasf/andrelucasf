@@ -1,6 +1,6 @@
 ## Hi, I'm André Lucas 👋
 
-- Software engineer at the University of Brasilia, passionate about technology. 📚 <br>
+- Software engineer passionate about technology. 📚 <br>
 - Currently I work in the area of web development with Typescript, JavaScript, NodeJS, NestJS and React. 🌱 
 - Software engineer at Cia. Hering 👨‍💻
 
